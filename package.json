@@ -29,8 +29,12 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
+<<<<<<< HEAD
     "postinstall": "npm run webpack",
 	"webpack": "webpack"
+=======
+    "heroku-postbuild": "npm run build"
+>>>>>>> 7440ca9c62c1a56f6b47eb58582201f41c212b6d
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.901.1",
