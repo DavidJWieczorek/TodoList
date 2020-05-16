@@ -30,7 +30,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "postinstall": "npm run webpack",
-	"webpack": "webpack"
+	  "webpack": "webpack"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.901.1",
